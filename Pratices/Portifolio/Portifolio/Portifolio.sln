@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portifolio", "Portifolio.csproj", "{71469036-23C9-41E7-9B69-ACFDE17AD950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBasee", "..\DataBasee\DataBasee.csproj", "{B5846995-EF27-49AE-BA49-F598E3ADD6D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "..\Business\Business.csproj", "{E6CFFDA4-0128-4BD1-A4ED-2FDE2D1C204A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71469036-23C9-41E7-9B69-ACFDE17AD950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71469036-23C9-41E7-9B69-ACFDE17AD950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71469036-23C9-41E7-9B69-ACFDE17AD950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71469036-23C9-41E7-9B69-ACFDE17AD950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5846995-EF27-49AE-BA49-F598E3ADD6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5846995-EF27-49AE-BA49-F598E3ADD6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5846995-EF27-49AE-BA49-F598E3ADD6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5846995-EF27-49AE-BA49-F598E3ADD6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CFFDA4-0128-4BD1-A4ED-2FDE2D1C204A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CFFDA4-0128-4BD1-A4ED-2FDE2D1C204A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CFFDA4-0128-4BD1-A4ED-2FDE2D1C204A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CFFDA4-0128-4BD1-A4ED-2FDE2D1C204A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97DEC9D3-B6AB-49C6-9B21-D1FE62A17BEE}
+	EndGlobalSection
+EndGlobal
